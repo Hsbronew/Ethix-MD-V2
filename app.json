@@ -8,9 +8,9 @@
   "stack": "container",
   "env": { 
       "SESSION_ID": {
-      "description": "your session id",
+      "description": "Ethix-MD&0c5dFhS2",
       "required": true,
-      "value": ""
+      "value": "Ethix-MD&0c5dFhS2"
     },
     "MODE": {
       "description": "mode public or self",
